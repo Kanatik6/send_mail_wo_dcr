@@ -138,7 +138,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'hamzasharit@gmail.com'
 DEFAULT_FROM_EMAIL = 'hamzasharit@gmail.com'
-EMAIL_HOST_PASSWORD = 'sharitv1000'
+EMAIL_HOST_PASSWORD = 'sharit10'
 
 
 CELERY_BROKER_URL = 'redis://redis:6379'
